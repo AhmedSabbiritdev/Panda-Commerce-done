@@ -1,0 +1,78 @@
+/* style for carousel */
+.container {
+    margin-bottom: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.orange-bg {
+    background-color: #fceae8;
+    border-radius: 5px;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.price {
+    color: #ff136f;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* style for section 2 */
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    border-radius: 9px;
+}
+
+.cat1 {
+    background-color: orange;
+}
+
+.cat2 {
+    background-color: orchid;
+}
+
+.cat3 {
+    background-color: blue;
+}
+
+.categories h1 {
+    color: white;
+}
+
+.categories img {
+    width: 100px;
+}
+
+/* style for section 3 */
+
+
+.card {
+    border: none !important;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+/* style for section 4 */
+
+#subscribs {
+    height: 300px;
+}
+
+.form-control {
+    margin-bottom: 11px;
+}
+
+/* style for section Footer */
+footer {
+    text-align: center;
+}
